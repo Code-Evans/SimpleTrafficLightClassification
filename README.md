@@ -9,7 +9,7 @@ This project demonstrates a basic Convolutional Neural Network (CNN) model for c
 - **Stop** (Red light)
 - **Slow** (Yellow light)
 
-The model is lightweight and designed for straightforward implementation, suitable for beginners and those exploring computer vision concepts in machine learning.
+The model is lightweight and designed for straightforward implementation, suitable for absolute beginners and those exploring computer vision concepts in machine learning.
 
 ## Features
 - **Easy to understand:** Designed with simplicity in mind to make it accessible for learners.
